@@ -132,7 +132,10 @@ Jps
 
 Berikut adalah *screenshot* dari hasil
 ![HDFS overview](BUKTI2.png)
+
+
 3. 🌐 Tampilan **YARN Cluster** (`http://localhost:8088/cluster`).
+   
 Berikut adalah *screenshot* dari hasil
 ![YARN Cluster](BUKTI1.png)
 
