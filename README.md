@@ -128,6 +128,10 @@ Jps
 
 1. ✅ Output `jps` menampilkan semua komponen aktif.
 2. 🌐 Tampilan **HDFS Overview** (`http://localhost:9870/dfshealth.html`).
+   ### **Lampiran Bukti berhasil jalankan HDFS**
+
+Berikut adalah *screenshot* dari hasil
+![HDFS overview](BUKTI1.png)
 3. 🌐 Tampilan **YARN Cluster** (`http://localhost:8088/cluster`).
 
 ---
