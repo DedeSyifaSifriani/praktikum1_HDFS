@@ -1,4 +1,4 @@
-# praktikum1_HDFS
+# Praktikum1_HDFS
 # 🚀 Hadoop HDFS & YARN – Praktikum Big Data
 
 Praktikum ini membahas instalasi dan konfigurasi **Hadoop Distributed File System (HDFS)** serta **YARN** menggunakan Docker Container.
@@ -8,9 +8,9 @@ Hasil akhirnya: sistem Hadoop berhasil berjalan dan dapat diakses melalui browse
 
 ## 👩‍💻 Identitas Mahasiswa
 
-| Nama                    | Kelas    | Mata Kuliah | Dosen Pengampu |
-| ----------------------- | -------- | ----------- | -------------- |
-| **Dede Syifa Sifriani** | TI.23.C3 | Big Data    | —              |
+| Nama                    | Kelas    | Mata Kuliah | Dosen Pengampu               |
+| ----------------------- | -------- | ----------- | --------------               |
+| **Dede Syifa Sifriani** | TI.23.C3 | Big Data    | Agung Nugroho, S.Kom., M.Kom |
 
 ---
 
@@ -131,8 +131,10 @@ Jps
    ### **Lampiran Bukti berhasil jalankan HDFS**
 
 Berikut adalah *screenshot* dari hasil
-![HDFS overview](BUKTI1.png)
+![HDFS overview](BUKTI2.png)
 3. 🌐 Tampilan **YARN Cluster** (`http://localhost:8088/cluster`).
+Berikut adalah *screenshot* dari hasil
+![YARN Cluster](BUKTI1.png)
 
 ---
 
