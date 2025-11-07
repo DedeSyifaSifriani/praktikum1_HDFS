@@ -1,4 +1,5 @@
 # Praktikum1_HDFS
+# Praktikum2,3,4 🕓 placeholder
 # 🚀 Hadoop HDFS & YARN – Praktikum Big Data
 
 Praktikum ini membahas instalasi dan konfigurasi **Hadoop Distributed File System (HDFS)** serta **YARN** menggunakan Docker Container.
@@ -140,6 +141,21 @@ Berikut adalah *screenshot* dari hasil
 ![YARN Cluster](BUKTI1.png)
 
 ---
+
+🕓 Modul 2: YARN dan MapReduce (Belum Selesai)
+
+Status: Sedang dalam tahap konfigurasi ResourceManager dan pembuatan job MapReduce.
+🗓️ Rencana dilanjutkan minggu depan.
+
+🔜 Modul 3: HBase / Hive
+
+Status: Belum dikerjakan
+🗓️ Akan dikerjakan setelah Modul 2.
+
+🔜 Modul 4: Pig / Spark
+
+Status: Belum dikerjakan
+🗓️ Target penyelesaian: Akhir bulan ini.
 
 ## 🧾 Kesimpulan
 
